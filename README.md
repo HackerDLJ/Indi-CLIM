@@ -1,4 +1,4 @@
-# Indi-CLIM: 
+# Indi-CLIM
 India Climate Live-Intelligence Model
 
 An advanced analytical framework designed for the **ISRO Hackathon**, focusing on live-intelligence climate modeling, environmental tracking, and predictive visualization across the Indian subcontinent.
